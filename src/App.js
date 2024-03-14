@@ -3,7 +3,7 @@ import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
 import { ProductsProvider } from './context/ProductsContext'; // Adjust the import path as necessary
 import ProductList from './components/ProductList';
 import NotFoundPage from './components/NotFoundPage';
-import HomePage from './components/Homepage';
+import HomePage from './components/HomePage';
 import './App.css';
 
 function App() {
